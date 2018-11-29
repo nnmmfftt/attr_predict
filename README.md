@@ -16,6 +16,7 @@ Use same dataset from density_peak_for_attr.
     permit         0.63      0.86      0.73        14
     avg / total    0.91      0.89      0.89        80
 
+We cut the permit probability for decrease risk of misclassification.
 ## How to Use
 ### Density peak for attr
   0. python distance_builder_data_doc.py(Patient data set has privacy information, please send me email if you need if for research)
