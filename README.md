@@ -12,10 +12,9 @@ Use same dataset from density_peak_for_attr.
 
                  precision  recall   f1-score    support
 
-        deny       0.97      0.89      0.93        66
-        permit     0.63      0.86      0.73        14
-
-avg / total       0.91      0.89      0.89        80
+    deny           0.97      0.89      0.93        66
+    permit         0.63      0.86      0.73        14
+    avg / total    0.91      0.89      0.89        80
 
 ## How to Use
 ### Density peak for attr
