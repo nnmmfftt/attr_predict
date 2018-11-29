@@ -10,7 +10,7 @@ ADD : Sub/Objs' attr context clustering.
 # Decision tree for attr predict
 Use same dataset from density_peak_for_attr.
 
-             precision    recall  f1-score   support
+                precision    recall  f1-score   support
 
         deny       0.97      0.89      0.93        66
         permit     0.63      0.86      0.73        14
