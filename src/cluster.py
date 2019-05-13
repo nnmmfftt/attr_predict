@@ -143,6 +143,8 @@ def min_distance(max_id, max_dis, distances, rho):
 	delta[sort_rho_idx[0]] = max(delta)
 	return np.array(delta, np.float32), np.array(nneigh, np.float32)
 
+def eucliden_distance():
+	pass
 
 class DensityPeakCluster(object):
 	def local_density(self, load_func, distance_f, dc = None, auto_select_dc = False):
